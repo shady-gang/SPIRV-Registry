@@ -17,7 +17,7 @@ Contributors
 ------------
 
 - Hugo Devillers, Saarland University
-- Friedrich Vock, Valve
+- Natalie Vock, Valve
 
 Status
 ------
